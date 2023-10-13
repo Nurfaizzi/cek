@@ -1,0 +1,9 @@
+form diskusi 5 Gold 
+
+1. membuat html dan style css
+2. membuat inline menggunakan
+3. membuat jarak dengan menggunakan justify content center
+   A. space - evenly =  kotak pertama ke tepi container tetap        	sama dengan jarak kotak pertama ke kotak kedua
+   B. center = membuat posisi ketengah 
+   C. space arround = letak item akan didistribusikan secara  	merata
+   E. space between = membuat jarak antara kolom pertama dan terakhir
